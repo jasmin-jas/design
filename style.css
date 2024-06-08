@@ -1,0 +1,42 @@
+nav ul {
+  display:flex;
+  text-decoration: none;
+  gap: 55px;
+  justify-content: space-between;
+  list-style: none;
+  Text-decoration: none;
+ }
+ a{text-decoration: none;}
+
+
+#a {
+  gap: 5px;
+  line-height: 5px;
+ 
+}
+nav {
+    display:flex;
+    text-decoration:none ;
+   justify-content: space-between;
+}
+#c {
+  background-color: rgb(19, 19, 216);
+  background-image: url('https://images.pexels.com/photos/34641/pexels-photo.jpg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1');
+  background-size: cover;
+  font-weight: 300px;
+  margin: 0px;
+  font-size:30px;
+  padding: 150px;
+  height: 450px;
+  gap: 10px;
+  color: whitesmoke;
+  text-align:center;
+  background:linear-gradient(45 deg,blue,white);
+}
+button{
+    background-color: azure;
+    padding:10px;
+}
+#e{
+    margin:0px;
+}
